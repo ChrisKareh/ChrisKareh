@@ -9,8 +9,9 @@ I'm a Computer Science student passionate about technology and its potential to 
 
 - :fire: Personal Project working on : www.firelinkstudios.com
 - :cricket: University Project working on : BugTracker 
-- :ringed_planet: I'm a Linux fan boi
 - :mailbox_with_no_mail: How to reach me : e-mail - chriskareh03@gmail.com
+- :ringed_planet: I'm a Linux fan boi
+
 
 
 ---
