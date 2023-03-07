@@ -1,5 +1,5 @@
 ### :milky_way: Chris Kareh
-**'Digital Craftsman (Developer/Designer/Tinker)'**
+**`Digital Craftsman (Developer/Designer/Tinker)`**
 
 ![katarzyna-cielma-winter-3-4](https://user-images.githubusercontent.com/64197212/223571285-40e685fa-6a45-4c68-a636-37929c03d2ff.gif)
 
@@ -11,7 +11,6 @@ I'm a Computer Science student passionate about technology and its potential to 
 ---
 ## :robot: Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
