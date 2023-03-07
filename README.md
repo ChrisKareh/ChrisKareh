@@ -35,8 +35,8 @@ I'm a Computer Science student passionate about technology and its potential to 
 <img align="left" alt="Bash" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<br />
 
+<br />
 ---
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKareh&show_icons=true&theme=radical)
