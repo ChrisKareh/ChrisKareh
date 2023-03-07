@@ -1,4 +1,4 @@
-### :milky_way: Chris Kareh
+# :milky_way: Chris Kareh
 **`Digital Craftsman (Developer/Designer/Tinker)`**
 
 I'm a Computer Science student passionate about technology and its potential to solve real-world problems. I have a strong foundation in programming languages, software development, and computer systems. I'm xontinuously expanding my knowledge and skills through coursework and personal projects.
