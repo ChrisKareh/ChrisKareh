@@ -10,7 +10,9 @@ I'm a Computer Science student passionate about technology and its potential to 
 - :fire: Personal Project working on : www.firelinkstudios.com
 - :cricket: University Project working on : BugTracker 
 - :mailbox_with_no_mail: e-mail - chriskareh03@gmail.com
+- :open_book: Learning how to use emacs and org mode
 - :ringed_planet: I'm a Linux fan boi
+
 
 
 
